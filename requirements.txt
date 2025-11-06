@@ -1,0 +1,6 @@
+requests
+speechrecognition
+pyttsx3
+ollama
+pyaudio
+pytest
